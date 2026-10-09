@@ -7,6 +7,7 @@
 <div align="center">
   <h1>Jgzingg</h1>
   <p><strong>Developer from Brazil working across web development, game modding and custom tools.</strong></p>
+  <p><code>Lua</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>JavaScript</code> &nbsp;•&nbsp; <code>Python</code> &nbsp;•&nbsp; <code>FiveM Native API</code> &nbsp;•&nbsp; <code>Bedrock Script API</code></p>
 </div>
 
 <br />
@@ -36,11 +37,21 @@
 
 <br />
 
+### 📂 Public Projects & Technical Experiments
+
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| **[DriftMod-Standalone](https://github.com/Jgzingg/DriftMod--Standalone-beta.0.9.8)** | FiveM Standalone Handling & Drift Menu (Lua) | `Prototype / v0.9 Reference` *(Superseded by private build)* |
+| **[Bedrock WorldEdit](https://github.com/Jgzingg/tata-d)** | Minecraft Bedrock Add-on & Batch Algorithms (JS) | `Archived / Discontinued` *(Public technical reference)* |
+| **[Ultimate Windows Optimizer](https://github.com/Jgzingg/ultimate-windows-optimizer)** | Windows Performance & Optimization Script (Python) | `Public Utility` |
+
+<br />
+
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jgzingg&show_icons=true&bg_color=0a0c10&title_color=39ff14&text_color=e2e8f0&icon_color=39ff14&border_color=1f2937&hide_border=false" alt="Jgzingg's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgzingg&layout=compact&bg_color=0a0c10&title_color=39ff14&text_color=e2e8f0&border_color=1f2937&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jgzingg&show_icons=true&count_private=true&bg_color=0a0c10&title_color=39ff14&text_color=e2e8f0&icon_color=39ff14&border_color=1f2937&hide_border=false" alt="Jgzingg's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgzingg&layout=compact&count_private=true&bg_color=0a0c10&title_color=39ff14&text_color=e2e8f0&border_color=1f2937&hide_border=false" alt="Top Languages" height="165" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
