@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/jgzingg-saas.gif">
-  <img src="./assets/jgzingg-saas.png" alt="Jgzingg — SaaS and web applications. Founder of Projeto Kings." width="1120" height="360">
+  <img src="./assets/jgzingg-saas.png" alt="Jgzingg — SaaS and web applications. Founder of Projeto Kings.">
 </picture>
 
 # SaaS & web applications
